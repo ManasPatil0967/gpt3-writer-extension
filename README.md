@@ -1,6 +1,8 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+## Works in GMail Compose section!
+# Steps to make it work:
+1. Download zip and extract
+2. Go to Chrome Extensions and Load Unpacked 
+3. Browse to the folder
+4. Switch it on 
+Et voila!
+Enjoy and let me know here!
